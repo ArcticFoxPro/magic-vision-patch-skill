@@ -1,6 +1,10 @@
 ---
 name: "magic-vision-patch-skill"
 description: "Automatically discovers RVA offsets for bypassing runtime validation checks in PE files (like Honor Magic Vision device/model verification). Invoke when analyzing binary files to find patch locations for model/PCManager validation bypass."
+license: AGPL-3.0
+metadata:
+  author: ArcticFoxPro
+  version: "0.1"
 ---
 
 # Binary Patch Analyzer Skill
